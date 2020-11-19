@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Composite\obj\Debug\netcoreapp3.1\Composite.pdb

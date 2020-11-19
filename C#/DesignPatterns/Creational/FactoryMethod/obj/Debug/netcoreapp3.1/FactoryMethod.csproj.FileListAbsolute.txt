@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb

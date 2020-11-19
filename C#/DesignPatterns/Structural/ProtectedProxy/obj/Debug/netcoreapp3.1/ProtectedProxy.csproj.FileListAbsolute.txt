@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\bin\Debug\netcoreapp3.1\ProtectedProxy.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\bin\Debug\netcoreapp3.1\ProtectedProxy.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\bin\Debug\netcoreapp3.1\ProtectedProxy.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\bin\Debug\netcoreapp3.1\ProtectedProxy.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\bin\Debug\netcoreapp3.1\ProtectedProxy.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\bin\Debug\netcoreapp3.1\ProtectedProxy.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\obj\Debug\netcoreapp3.1\ProtectedProxy.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\obj\Debug\netcoreapp3.1\ProtectedProxy.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\obj\Debug\netcoreapp3.1\ProtectedProxy.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\obj\Debug\netcoreapp3.1\ProtectedProxy.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\ProtectedProxy\obj\Debug\netcoreapp3.1\ProtectedProxy.csprojAssemblyReference.cache

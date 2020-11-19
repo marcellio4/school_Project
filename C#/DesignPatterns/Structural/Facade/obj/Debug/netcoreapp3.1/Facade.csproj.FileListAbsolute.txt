@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Facade\obj\Debug\netcoreapp3.1\Facade.pdb

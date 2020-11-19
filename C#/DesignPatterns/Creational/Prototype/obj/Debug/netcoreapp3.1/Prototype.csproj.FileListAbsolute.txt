@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb

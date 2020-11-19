@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb

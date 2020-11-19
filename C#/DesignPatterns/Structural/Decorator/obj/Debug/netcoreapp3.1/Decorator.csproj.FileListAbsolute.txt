@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\bin\Debug\netcoreapp3.1\Decorator.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\obj\Debug\netcoreapp3.1\Decorator.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb

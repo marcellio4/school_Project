@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\bin\Debug\netcoreapp3.1\observer.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\bin\Debug\netcoreapp3.1\observer.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\bin\Debug\netcoreapp3.1\observer.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\bin\Debug\netcoreapp3.1\observer.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\bin\Debug\netcoreapp3.1\observer.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\bin\Debug\netcoreapp3.1\observer.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\obj\Debug\netcoreapp3.1\observer.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\obj\Debug\netcoreapp3.1\observer.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\obj\Debug\netcoreapp3.1\observer.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\obj\Debug\netcoreapp3.1\observer.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\observer\obj\Debug\netcoreapp3.1\observer.pdb

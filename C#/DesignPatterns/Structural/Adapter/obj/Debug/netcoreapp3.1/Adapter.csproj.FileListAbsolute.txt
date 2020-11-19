@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb

@@ -1,0 +1,21 @@
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/bin/Debug/netcoreapp3.1/memento.deps.json
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/bin/Debug/netcoreapp3.1/memento.runtimeconfig.json
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/bin/Debug/netcoreapp3.1/memento.runtimeconfig.dev.json
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/bin/Debug/netcoreapp3.1/memento.dll
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/bin/Debug/netcoreapp3.1/memento.pdb
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/obj/Debug/netcoreapp3.1/memento.csprojAssemblyReference.cache
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/obj/Debug/netcoreapp3.1/memento.AssemblyInfoInputs.cache
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/obj/Debug/netcoreapp3.1/memento.AssemblyInfo.cs
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/obj/Debug/netcoreapp3.1/memento.dll
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-nine-behavioural-design-patterns/memento/obj/Debug/netcoreapp3.1/memento.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\bin\Debug\netcoreapp3.1\memento.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\bin\Debug\netcoreapp3.1\memento.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\bin\Debug\netcoreapp3.1\memento.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\bin\Debug\netcoreapp3.1\memento.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\bin\Debug\netcoreapp3.1\memento.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\bin\Debug\netcoreapp3.1\memento.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\obj\Debug\netcoreapp3.1\memento.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\obj\Debug\netcoreapp3.1\memento.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\obj\Debug\netcoreapp3.1\memento.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\obj\Debug\netcoreapp3.1\memento.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\memento\obj\Debug\netcoreapp3.1\memento.pdb

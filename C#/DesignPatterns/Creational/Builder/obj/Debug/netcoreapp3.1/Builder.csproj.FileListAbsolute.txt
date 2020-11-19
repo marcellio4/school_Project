@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.pdb

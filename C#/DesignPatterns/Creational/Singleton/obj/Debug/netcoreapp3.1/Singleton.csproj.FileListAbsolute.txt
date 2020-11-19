@@ -1,0 +1,22 @@
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb

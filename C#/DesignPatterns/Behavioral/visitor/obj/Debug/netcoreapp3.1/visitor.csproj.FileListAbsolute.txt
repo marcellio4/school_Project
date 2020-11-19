@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\obj\Debug\netcoreapp3.1\visitor.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\obj\Debug\netcoreapp3.1\visitor.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\obj\Debug\netcoreapp3.1\visitor.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\bin\Debug\netcoreapp3.1\visitor.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\bin\Debug\netcoreapp3.1\visitor.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\bin\Debug\netcoreapp3.1\visitor.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\bin\Debug\netcoreapp3.1\visitor.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\bin\Debug\netcoreapp3.1\visitor.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\bin\Debug\netcoreapp3.1\visitor.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\obj\Debug\netcoreapp3.1\visitor.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-nine-behavioural-design-patterns-mzacha02\visitor\obj\Debug\netcoreapp3.1\visitor.pdb

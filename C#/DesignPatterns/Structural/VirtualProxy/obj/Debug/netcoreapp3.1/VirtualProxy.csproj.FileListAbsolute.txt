@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\bin\Debug\netcoreapp3.1\VirtualProxy.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\VirtualProxy\obj\Debug\netcoreapp3.1\VirtualProxy.csprojAssemblyReference.cache

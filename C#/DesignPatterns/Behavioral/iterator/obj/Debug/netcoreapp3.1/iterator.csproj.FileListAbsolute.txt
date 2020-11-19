@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\obj\Debug\netcoreapp3.1\iterator.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\obj\Debug\netcoreapp3.1\iterator.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\obj\Debug\netcoreapp3.1\iterator.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\bin\Debug\netcoreapp3.1\iterator.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\bin\Debug\netcoreapp3.1\iterator.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\bin\Debug\netcoreapp3.1\iterator.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\bin\Debug\netcoreapp3.1\iterator.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\bin\Debug\netcoreapp3.1\iterator.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\bin\Debug\netcoreapp3.1\iterator.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\obj\Debug\netcoreapp3.1\iterator.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\iterator\obj\Debug\netcoreapp3.1\iterator.pdb

@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\bin\Debug\netcoreapp3.1\interpreter.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\bin\Debug\netcoreapp3.1\interpreter.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\bin\Debug\netcoreapp3.1\interpreter.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\bin\Debug\netcoreapp3.1\interpreter.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\bin\Debug\netcoreapp3.1\interpreter.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\bin\Debug\netcoreapp3.1\interpreter.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\obj\Debug\netcoreapp3.1\interpreter.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\obj\Debug\netcoreapp3.1\interpreter.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\obj\Debug\netcoreapp3.1\interpreter.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\obj\Debug\netcoreapp3.1\interpreter.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-eight-behavioural-design-patterns-mzacha02\interpreter\obj\Debug\netcoreapp3.1\interpreter.pdb

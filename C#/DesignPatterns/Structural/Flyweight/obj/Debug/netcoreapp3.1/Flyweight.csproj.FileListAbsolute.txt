@@ -1,0 +1,11 @@
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-seven-structural-design-patterns-mzacha02\Code\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache

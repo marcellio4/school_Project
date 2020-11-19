@@ -1,0 +1,22 @@
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+H:\SP3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+E:\School\5th year\Sotware_Programming_3\worksheet-six-creational-design-patterns-mzacha02\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
